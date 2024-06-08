@@ -23,7 +23,7 @@ This app is a must-have for anyone looking to streamline their data analysis and
 
 
 ## Snapshot of the  TOSIEF's EDA-ML Toolkit backend code in an IDE, showing the Python script responsible for EDA
-![Snapshot of the  TOSIEF's EDA-ML Toolkit in an IDE, showing the Python script responsible for EDA](Screenshots/0.png)
+![Snapshot of the  TOSIEF's EDA-ML Toolkit in an IDE, showing the Python script responsible for EDA](Screenshots/1.png)
 
 ## Initial Setup of TOSIEF's EDA-ML Toolkit
 ![Initial Setup of TOSIEF's EDA-ML Toolkit](Screenshots/2.png)
