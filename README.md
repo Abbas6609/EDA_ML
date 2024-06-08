@@ -48,7 +48,7 @@ This app is a must-have for anyone looking to streamline their data analysis and
 ![Statistical Analysis Options](Screenshots/6.png)
 
 ## Histogram Visualization in Data Analysis
-### **Displaying a histogram of 'total_bill' within the data visualization section of the application, including interactive options to download the plot in various formats.
+### **Displaying a histogram of 'total_bill' within the data visualization section of the application, including interactive options to download the plot in various formats.**
 ![Histogram Visualization in Data Analysis](Screenshots/7.png)
 
 
